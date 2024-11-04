@@ -1,3 +1,11 @@
+/*
+ * Program Name: guessYourNumber;
+ * Author: [Laufy] ;
+ * Date: [18/10/2024] ;
+ * Description: think of a number and program will guess it in 10 attempts ;
+ * Copyright (c) [2024] [Laufy] ;
+ * Note: Feel free to modify / share this code as long as credit is given to the original author. ;
+ */
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
