@@ -1,3 +1,11 @@
+/*
+ * Program Name: 8ball ;
+ * Author: [Laufy] ;
+ * Date: [29/10/2024] ;
+ * Description: ask a question and get different answer every time ;
+ * Copyright (c) [2024] [Laufy] ;
+ * Note: Feel free to modify / share this code as long as credit is given to the original author. ;
+ */
 #include <iostream>
 #include <string>
 #include <cstdlib>
