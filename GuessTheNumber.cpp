@@ -1,3 +1,11 @@
+/*
+ * Program Name: guessTheNumber ;
+ * Author: [Laufy] ;
+ * Date: [04/11/2024] ;
+ * Description: simple guessing game, where you try to guess the number that program chose. ;
+ * Copyright (c) [2024] [Laufy] ;
+ * Note: Feel free to modify / share this code as long as credit is given to the original author. ;
+ */
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
